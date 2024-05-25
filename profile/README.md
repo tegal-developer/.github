@@ -6,4 +6,4 @@
 
 ## About Tegal Dev 💬
 
-Sebuah komunitas yang mewadahi dan menghubungkan para developer di Tegal untuk berkembang bersama melalui kolaborasi dan inovasi menuju kemajuan teknologi
+Tegal Dev merupakan sebuah komunitas developer teknologi informasi yang dibentuk sejak tahun 2024 dan merupakan wadah untuk belajar dan kolaborasi di Tegal
