@@ -1,7 +1,7 @@
 # Komunitas Developer IT Tegal Dev 👋
 
 <p align="center">
-    <img src="https://www.tegal.dev/_next/image?url=https%3A%2F%2Ftegal-dev-cms-0693f57bf1a2.herokuapp.com%2Fuploads%2F1716455754131_3bf2af4ca5.jpg&w=1920&q=75">
+    <img src="https://res.cloudinary.com/dv0q5v4l8/image/upload/v1717877757/Tegal_dev_BB_10163b9a82.png">
 </p>
 
 ## About Tegal Dev 💬
