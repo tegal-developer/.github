@@ -1,6 +1,6 @@
 # Tegal Dev IT Developer Community 👋
 
-![Tegal Dev's logo](https://res.cloudinary.com/dv0q5v4l8/image/upload/v1717877757/Tegal_dev_BB_10163b9a82.png)
+![Tegal dev-B](https://github.com/user-attachments/assets/1615e709-cf8e-4d78-9182-8fdb8e7dd016)
 
 ## About Tegal Dev 💬
 
