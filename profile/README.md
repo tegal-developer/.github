@@ -1,4 +1,4 @@
-# Tegal Dev IT Developer Community 👋
+# Software Engineer Community based on Tegal, Central Java, Indonesia 👋
 
 ![Tegal dev-B](https://github.com/user-attachments/assets/1615e709-cf8e-4d78-9182-8fdb8e7dd016)
 
