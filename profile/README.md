@@ -13,3 +13,5 @@ Tegal Dev is a software engineer community that was formed in 2024 and is a foru
 **IT Workshop & Training** are two other types of general and exclusive and certified activities held by the Tegal Dev community to increase the knowledge and skills of its members.
 
 **Collaboration** is an important aspect in the Tegal Dev community. There are many ways for software engineers to collaborate in the community, including collaborating on open source projects, contributing to documentation and tutorials, sharing knowledge and experience, and mentoring other software engineer.
+
+**Sharing Sessions** are informal or semi-formal gatherings where members present their personal projects, lessons learned, or interesting technologies they have explored. These sessions encourage open discussions, peer-to-peer learning, and practical knowledge exchange, making them a great way to inspire and be inspired within the community.
